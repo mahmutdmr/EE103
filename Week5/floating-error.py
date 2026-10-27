@@ -1,4 +1,3 @@
-"""EE103 Week 5 Recap: demonstrate accumulated floating-point rounding error."""
 
 x = 0.0
 for iteration in range(10):
