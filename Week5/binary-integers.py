@@ -1,4 +1,3 @@
-"""EE103 Week 5 Recap: integer-to-binary conversion by repeated division by 2."""
 
 number = int(input("Enter an integer: "))
 original_number = number
