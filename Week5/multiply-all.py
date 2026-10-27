@@ -1,4 +1,4 @@
-"""EE103 Week 5 Recap: multiply all integers in an inclusive range."""
+
 
 start = int(input("Enter the start number: "))
 end = int(input("Enter the end number: "))
