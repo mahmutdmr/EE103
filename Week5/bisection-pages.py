@@ -1,4 +1,3 @@
-"""EE103 Week 5 Tasks, Part 2: find a favorite page by bisection search."""
 
 low = 1
 high = 148
