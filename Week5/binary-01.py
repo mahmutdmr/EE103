@@ -1,4 +1,3 @@
-"""EE103 Week 5 Recap: approximate the infinite binary expansion of 0.1."""
 
 number = 0.1
 epsilon = 0.00001
