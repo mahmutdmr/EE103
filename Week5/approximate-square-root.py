@@ -1,9 +1,3 @@
-"""EE103 Week 5 Tasks, Part 1: square root by incremental approximation.
-
-The assignment checks abs(guess**2 - number) < epsilon (squared residual),
-not abs(guess - math.sqrt(number)) < epsilon (root error).
-"""
-
 import math
 
 number = float(input("Enter a number to find its square root: "))
