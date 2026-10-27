@@ -1,4 +1,3 @@
-"""Run with: python -m unittest test_week5.py -v"""
 
 import re
 import subprocess
