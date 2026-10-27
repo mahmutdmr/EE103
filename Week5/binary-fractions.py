@@ -1,4 +1,3 @@
-"""EE103 Week 5 Recap: convert decimal numbers to binary, including fractions."""
 
 number = float(input("Enter a number (e.g. 13.375): "))
 
