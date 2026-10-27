@@ -1,4 +1,3 @@
-"""EE103 Week 5 Recap: solve the cupcake puzzle with nested guess-and-check loops."""
 
 TOTAL_CUPCAKES = 28
 found = False
